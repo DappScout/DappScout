@@ -20,8 +20,8 @@ Currently Intern at Zealynx Security as **Security Researcher**, where I contrib
 
 | Solidity | Foundry | Slither | Git |
 |----------|---------|---------|------------|
-| TypeScript | Docker | Windsurf | OWASP ZAP |
-| Postman | Chrome DevTools | PowerShell | VSCode |
+| TypeScript | Docker | Claude Code | React |
+| Postman | Chrome DevTools | PowerShell | OWASP ZAP |
 
 ---
 
